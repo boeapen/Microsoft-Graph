@@ -28,8 +28,8 @@ To get started with the Graph API samples in this repository:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/graph-api-samples.git
-    cd graph-api-samples
+    git clone https://github.com/boeapen/Microsoft-Graph.git
+    cd Microsoft-Graph
     ```
 
 2. **Install dependencies:**
